@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2025 RePromptsQuest
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "pyttsgen"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Libraries Notice
+
+This software makes use of the following open-source libraries:
+
+- `edge-tts` - MIT License - [GitHub](https://github.com/rany2/edge-tts)
+- `streamlit` - Apache License 2.0 - [GitHub](https://github.com/streamlit/streamlit)
+- `nest_asyncio` - BSD 2-Clause License - [GitHub](https://github.com/erdewit/nest_asyncio)
+
+Each of these libraries retains its own license, and their respective license terms apply. This license does not grant any rights to use the trademarks, service marks, or product names of any of the third-party projects.
+
+Please ensure you comply with their individual license requirements when distributing software that includes or depends on them.
