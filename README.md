@@ -1,5 +1,7 @@
 # pyttsgen
 
+![Downloads](https://static.pepy.tech/badge/pyttsgen/month)  
+
 **pyttsgen** is a plug-and-play TTS (Text-to-Speech) generator for Python. It supports:
 
 - 🔧 Python scripting
